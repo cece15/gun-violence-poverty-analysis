@@ -22,6 +22,12 @@ tests, bootstrap analysis, and interactive visualizations.
 
  **[View Full Interactive Report](https://cece15.github.io/Gun-Violence-Poverty-Analysis/)**
 >
+>## Live Pages
+
+>  **[View Project Page](https://cece15.github.io/Gun-Violence-Poverty-Analysis/)** — Narrative walkthrough for all audiences
+
+>  **[View Full Interactive Report](https://cece15.github.io/Gun-Violence-Poverty-Analysis/report.html)** — Complete analysis with all 12 visualizations
+> 
 > Includes interactive plotly charts, animated gganimate visualizations,
 > calendar heatmaps, and U.S. state choropleth maps.
 
